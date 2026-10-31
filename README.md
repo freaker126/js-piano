@@ -3,6 +3,8 @@
 An interactive, responsive 8-key browser piano built with HTML5, Tailwind CSS, and modern JavaScript using the native **Web Audio API**. No external audio samples are required—all tones are synthesized directly in real time.
 
 ---
+📱 **Mobile Responsive**: Fully optimized for mobile web browsers with touch-screen controls for iOS and Android devices!
+---
 
 ## ✨ Features
 
